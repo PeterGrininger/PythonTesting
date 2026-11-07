@@ -9,7 +9,7 @@ on:
 
 jobs:
   lint-and-test:
-    # WICHTIG: Nutzt deinen lokalen Self-Hosted Runner
+    # WICHTIG: Nutzt den lokalen Self-Hosted Runner
     runs-on: self-hosted
 
     env:
